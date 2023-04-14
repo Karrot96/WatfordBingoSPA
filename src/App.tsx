@@ -91,7 +91,6 @@ const App: React.FC = () => {
     const cellStyle: CSSProperties = {
       width: cellSize + "px",
       height: cellSize + "px",
-      lineHeight: cellSize + "px",
       color: primaryColor,
       backgroundColor: secondaryColor,
       textAlign: "center",
