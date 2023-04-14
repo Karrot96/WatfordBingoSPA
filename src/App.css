@@ -29,3 +29,9 @@
 .bingo-cell.checked {
   background-color: #FDB913;
 }
+
+@media screen and (max-width: 600px) {
+  .bingo-cell {
+    font-size: 8px;
+  }
+}
