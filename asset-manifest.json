@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WatfordBingoSPA/static/css/main.d90722d2.css",
+    "main.js": "/WatfordBingoSPA/static/js/main.85c8f118.js",
+    "static/js/787.38ce47d4.chunk.js": "/WatfordBingoSPA/static/js/787.38ce47d4.chunk.js",
+    "index.html": "/WatfordBingoSPA/index.html",
+    "main.d90722d2.css.map": "/WatfordBingoSPA/static/css/main.d90722d2.css.map",
+    "main.85c8f118.js.map": "/WatfordBingoSPA/static/js/main.85c8f118.js.map",
+    "787.38ce47d4.chunk.js.map": "/WatfordBingoSPA/static/js/787.38ce47d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d90722d2.css",
+    "static/js/main.85c8f118.js"
+  ]
+}
