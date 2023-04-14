@@ -1,0 +1,31 @@
+.bingo-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto;
+  border: 2px solid #000;
+  border-radius: 10px;
+  background-color: #FFF;
+}
+
+.bingo-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: calc(100% / 5);
+}
+
+.bingo-cell {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  font-weight: bold;
+  border: 1px solid #000;
+}
+
+.bingo-cell.checked {
+  background-color: #FDB913;
+}
