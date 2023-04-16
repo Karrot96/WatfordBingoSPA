@@ -17,7 +17,7 @@ const App: React.FC = () => {
     const guid = getGuidFromCookie() || generateGuid();
     setGuidCookie(guid);
 
-    axios.post('https://watfordbingobackend-hvt4gf6dfa-nw.a.run.app/generate', {
+    axios.post('https://watfordbingo-hvt4gf6dfa-nw.a.run.app/generate', {
       "guid": guid
     })
     .then((response) => {
